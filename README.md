@@ -1,4 +1,4 @@
-[![Pulls](https://shields.beevelop.com/docker/pulls/beevelop/ionic.svg?style=flat-square)](https://links.beevelop.com/d-ionic)
+https://travis-ci.org/tyroroto/docker-ionic-gulp.svg?branch=master
 
 # Base from beevelop/docker-ionic
 
