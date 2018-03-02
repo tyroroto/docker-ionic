@@ -1,4 +1,4 @@
-https://travis-ci.org/tyroroto/docker-ionic-gulp.svg?branch=master
+[![Build Status](https://travis-ci.org/tyroroto/docker-ionic-gulp.svg?branch=master)](https://travis-ci.org/tyroroto/docker-ionic-gulp)
 
 # Base from beevelop/docker-ionic
 
